@@ -122,18 +122,3 @@ Access the site at: `http://127.0.0.1:8000/`
 - ✅ Resume parsing and job recommendation
 - ✅ React.js frontend or mobile app integration
 
----
-
-## 📄 License
-
-This project is open-source and free to use.
-
----
-
-## ✉️ Contact
-
-Made with ❤️ by [Your Name] – Open to freelance and full-time opportunities.  
-Email: your.email@example.com  
-LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-
----
